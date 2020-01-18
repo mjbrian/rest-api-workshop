@@ -1,3 +1,7 @@
+# Typescript Support
+*.js
+*.js.map
+
 # Logs
 logs
 *.log
